@@ -22,7 +22,7 @@ Follow these steps to bring SimplePost up and running on your local machine for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SimplePost.git
+   git clone https://github.com/RakinRkz/SimplePost/
    ```
 2. Change into the project directory:
    ```bash
